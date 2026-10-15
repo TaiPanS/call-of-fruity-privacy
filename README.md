@@ -1,4 +1,4 @@
-# Call Of Fruite legal pages
+# Call Of Fruity legal pages
 
-- Privacy Policy: https://ai402pay.github.io/call-of-fruite-privacy/
-- Terms of Service: https://ai402pay.github.io/call-of-fruite-privacy/terms/
+- Privacy Policy: https://taipans.github.io/call-of-fruity-privacy/
+- Terms of Service: https://taipans.github.io/call-of-fruity-privacy/terms/
